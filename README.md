@@ -17,7 +17,6 @@
 
 ⑥ 每轮对话沉淀md文档，写入Nowledge Mem MCP。
 
-使用要求
 
 ## 1.有头浏览器MCP配置
 
