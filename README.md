@@ -19,7 +19,7 @@
 
 使用要求
 
-##1.有头浏览器MCP配置
+## 1.有头浏览器MCP配置
 
 有些工具会强制调用默认无头浏览器来做桌面浏览器操作，所以需要额外配置一个指向本地谷歌浏览器的MCP
 
@@ -55,8 +55,8 @@ chrome-devtools-mcp@latest
 
 环境变量留空
 
-##2.加载skill（复制或者导入）
+## 2.加载skill（复制或者导入）
 
 略
 
-##3.如果需要，可以配置nowledgememMCP，需要配合本地Nowledge Mem使用，见[Nowledge Mem]([ Nowledge Mem](https://mem.nowledge.co/zh/docs))。
+## 3.如果需要，可以配置nowledgememMCP，需要配合本地Nowledge Mem使用，见([Nowledge Mem](https://mem.nowledge.co/zh/docs))。
