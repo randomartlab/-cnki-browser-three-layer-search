@@ -59,4 +59,4 @@ chrome-devtools-mcp@latest
 
 略
 
-##3.如果需要，可以配置nowledgememMCP，需要配合本地Nowledge Mem使用，见[Nowledge Mem]([Nowledge Mem | Nowledge Mem](https://mem.nowledge.co/zh/docs))。
+##3.如果需要，可以配置nowledgememMCP，需要配合本地Nowledge Mem使用，见[Nowledge Mem]([ Nowledge Mem](https://mem.nowledge.co/zh/docs))。
